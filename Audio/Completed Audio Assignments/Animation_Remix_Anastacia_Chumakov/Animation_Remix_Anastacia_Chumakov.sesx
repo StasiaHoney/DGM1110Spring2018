@@ -2,20 +2,20 @@
 <!DOCTYPE sesx>
 <sesx version="1.5">
 
-  <session appBuild="11.0.0.199" appVersion="11.0" audioChannelType="stereo" bitDepth="32" duration="9079873" sampleRate="48000">
+  <session appBuild="11.0.2.2" appVersion="11.0" audioChannelType="stereo" bitDepth="32" duration="11550693" sampleRate="48000">
     <name>Animation_Remix_Anastacia_Chumakov.sesx</name>
     <tracks>
       <videoTrack id="0" select="false">
-        <trackParameters trackHeight="70" trackHue="-1" trackMinimized="false">
-          <name>Video Reference</name>
+        <trackParameters trackHeight="53" trackHue="-1" trackMinimized="false">
+          <name>a way out trailer </name>
         </trackParameters>
-        <videoClip endPoint="2330328" fileID="0" hue="-1" id="0" lockedInTime="false" name="BioShock Infinite TV Commercial 1080p HD TV official Trailer" offline="false" select="false" sourceInPoint="0" sourceOutPoint="2330328" startPoint="0" zOrder="0">
-          <videoFormat height="480" pixelType="0" sampleSize="1001" timeScale="30000" width="720"/>
+        <videoClip endPoint="2985382" fileID="0" hue="-1" id="0" lockedInTime="false" name="a way out remix trailer" offline="false" select="false" sourceInPoint="0" sourceOutPoint="2985382" startPoint="0" zOrder="0">
+          <videoFormat height="720" pixelType="0" sampleSize="1001" timeScale="30000" width="1280"/>
         </videoClip>
       </videoTrack>
-      <audioTrack automationLaneOpenState="false" id="10001" index="1" select="true" visible="true">
-        <trackParameters trackHeight="134" trackHue="-1" trackMinimized="false">
-          <name>Wicked Ones</name>
+      <audioTrack automationLaneOpenState="false" id="10001" index="1" select="false" visible="true">
+        <trackParameters trackHeight="70" trackHue="-1" trackMinimized="false">
+          <name>original audio</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
           <trackOutput outputID="10000" type="trackID"/>
@@ -80,20 +80,132 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="1767466" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="Wicked Ones 48000 1" offline="false" select="false" sourceInPoint="3570191" sourceOutPoint="5337657" startPoint="0" zOrder="0">
-          <component componentGuid="f73207a2-44ce-4a24-867d-881b3f41901c" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.7447237"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="169636" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="a way out remix trailer_audio" offline="false" select="false" sourceInPoint="0" sourceOutPoint="169636" startPoint="0" zOrder="0">
+          <properties properties="{&quot;BasicAdjustmentsProperty&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AdjustmentMode&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;dialog&quot;},&quot;ClaritySection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;Dynamics&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:4.5259714126586914}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;84964fee-dbd3-488a-aa5a-08a4c5785bb5&quot;}}},&quot;EQ&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;5&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8}}},&quot;Amount&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8.0853347778320313},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;682da988-3cfe-4072-82e9-116a5debdc33&quot;}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UsedClipGainValue&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:0.46361592411994934},&quot;VocalEnhancer&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;7&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;83c095f3-61b8-4803-b8d4-edeb8f7b9c45&quot;}}}}},&quot;ClipType&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:1},&quot;LoudnessSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;AutoLoudnessEnabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}},&quot;PresetGuid&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;2d1dde28-2405-475c-a22d-ea21f1aa2f21&quot;},&quot;RestorationSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;ReduceHum&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;4&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7.143000602722168}}},&quot;9&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:60}}}}},&quot;ReduceNoise&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0141866207122803}}}}},&quot;ReduceRumble&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;8&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0490450859069824}}}}},&quot;ReduceSibilance&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;6&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:2.5248193740844727}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;adf4064d-8d41-4ed3-9b3e-923f7bf27587&quot;}}}}},&quot;SoundEffectsSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:false},&quot;Reverb&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1.8020402193069458}}},&quot;3&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7}}}}}}},&quot;VolumeSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}}}}}"/>
+          <effectsRack preFader="true">
+            <component componentGuid="1fadfb70-b787-4914-bbfb-c81fc90f158b" id="rackMix" powered="true">
+              <parameter index="0" parameterValue="0"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="33ae5bc1-e429-47d4-a144-d92da57c8fb7" id="rackInput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="70aa6b3f-9d5b-4fa2-a44e-4695f668882c" id="rackOutput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <slot powered="true" slotIndex="0">
+              <component componentGuid="84964fee-dbd3-488a-aa5a-08a4c5785bb5" componentID="f76dad9c-77da-477a-9939-eefefc5c23bd" name="Dynamics Processing">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Level Detector - Attack Time" parameterValue="0.002"/>
+                <parameter index="1" name="Level Detector - Release Time" parameterValue="0.05"/>
+                <parameter index="2" name="Gain Processor - Attack Time" parameterValue="0.048"/>
+                <parameter index="3" name="Gain Processor - Release Time" parameterValue="0.05"/>
+                <parameter index="4" name="Lookahead Time" parameterValue="0.006"/>
+                <parameter index="5" name="Input Gain" parameterValue="0.5"/>
+                <parameter index="6" name="Output Gain" parameterValue="0.5"/>
+                <parameter index="7" name="Low Cutoff" parameterValue="0"/>
+                <parameter index="8" name="High Cutoff" parameterValue="1"/>
+                <parameter index="9" name="Lock Filter" parameterValue="0"/>
+                <parameter index="10" name="Number of X/Y Pairs" parameterValue="0.8571429"/>
+                <parameter index="11" name="Link Channels" parameterValue="0"/>
+                <parameter index="12" name="Peak/RMS" parameterValue="1"/>
+                <parameter index="13" name="Envelope Only" parameterValue="0"/>
+                <parameter index="14" name="Spline Curves" parameterValue="1"/>
+                <parameter index="15" name="Noise Gating (if expanding more than 50:1)" parameterValue="0"/>
+                <parameter index="16" name="Current Tab" parameterValue="1"/>
+                <parameter index="17" name="Location1" parameterValue="0"/>
+                <parameter index="18" name="Value1" parameterValue="0"/>
+                <parameter index="19" name="Location2" parameterValue="0.0861731"/>
+                <parameter index="20" name="Value2" parameterValue="0.0471714"/>
+                <parameter index="21" name="Location3" parameterValue="0.1378769"/>
+                <parameter index="22" name="Value3" parameterValue="0.1237553"/>
+                <parameter index="23" name="Location4" parameterValue="0.1823461"/>
+                <parameter index="24" name="Value4" parameterValue="0.1823461"/>
+                <parameter index="25" name="Location5" parameterValue="0.3196059"/>
+                <parameter index="26" name="Value5" parameterValue="0.5115522"/>
+                <parameter index="27" name="Location6" parameterValue="1"/>
+                <parameter index="28" name="Value6" parameterValue="0.9909481"/>
+                <parameter index="29" name="Location7" parameterValue="0.5"/>
+                <parameter index="30" name="Value7" parameterValue="0.5"/>
+                <parameter index="31" name="Make-Up Gain" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="1">
+              <component componentGuid="682da988-3cfe-4072-82e9-116a5debdc33" componentID="3792d46f-5036-4be6-ab5a-177622246a5d" name="Graphic Equalizer (10 Bands)">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Accuracy" parameterValue="0.0965534"/>
+                <parameter index="1" name="Master Gain" parameterValue="0.5"/>
+                <parameter index="2" name="Range" parameterValue="0.2911392"/>
+                <parameter index="3" name="Reset" parameterValue="0"/>
+                <parameter index="4" name="EQ Band 1" parameterValue="0.5"/>
+                <parameter index="5" name="EQ Band 2" parameterValue="0.5"/>
+                <parameter index="6" name="EQ Band 3" parameterValue="0.5"/>
+                <parameter index="7" name="EQ Band 4" parameterValue="0.5"/>
+                <parameter index="8" name="EQ Band 5" parameterValue="0.5"/>
+                <parameter index="9" name="EQ Band 6" parameterValue="0.5109684"/>
+                <parameter index="10" name="EQ Band 7" parameterValue="0.5376283"/>
+                <parameter index="11" name="EQ Band 8" parameterValue="0.5156692"/>
+                <parameter index="12" name="EQ Band 9" parameterValue="0.5"/>
+                <parameter index="13" name="EQ Band 10" parameterValue="0.5"/>
+                <parameter index="14" name="Is Processing" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="2">
+              <component componentGuid="adf4064d-8d41-4ed3-9b3e-923f7bf27587" componentID="ffbe710f-cd69-4139-ad26-65603616d9d4" name="DeEsser">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[BCBuYWZldFMHAAAAfpiMwQAAyEIAAMhCxF81RWuPHEUAAAAAAACAPw==]]></presetChunkData>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="3">
+              <component componentGuid="83c095f3-61b8-4803-b8d4-edeb8f7b9c45" componentID="82882adc-18cb-475b-b237-597576a5e707" name="Vocal Enhancer">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[EiBuYWZldFMBAAAAAQAAAAAAAAA=]]></presetChunkData>
+              </component>
+            </slot>
+          </effectsRack>
+          <component componentGuid="35831ea8-ca8b-4b92-8d02-cdbea9e59d02" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.2509153"/>
+            <parameter index="1" name="static gain" parameterValue="0.4636159"/>
           </component>
-          <component componentGuid="964da522-6a36-4584-8e8b-6184706cd99b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="79ea4d6a-0727-4a20-b81c-e713efc8809b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
-          <component componentGuid="55699826-199e-4213-bf05-725ae039cb8b" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+          <component componentGuid="f9db5f80-bb9e-4d14-9873-d303f82e104b" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1767466" shape="19" startPoint="1707274" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="169636" shape="0" startPoint="169636" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <channelMap>
@@ -101,24 +213,531 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="2162545" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="Wicked Ones 48000 1" offline="false" select="true" sourceInPoint="6235070" sourceOutPoint="6690341" startPoint="1707274" zOrder="3">
-          <component componentGuid="dfec8343-f372-41d3-9878-32b068bafb94" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.7447237">
-              <parameterKeyframes enableSplines="false" readOnly="false">
-                <parameterKeyframe sampleOffset="6689861" select="false" type="linear" value="0.5696428"/>
-              </parameterKeyframes>
-            </parameter>
-            <parameter index="1" name="static gain" parameterValue="1"/>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="278802" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="a way out remix trailer_audio" offline="false" select="false" sourceInPoint="169636" sourceOutPoint="278802" startPoint="169636" zOrder="1">
+          <properties properties="{&quot;BasicAdjustmentsProperty&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AdjustmentMode&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;dialog&quot;},&quot;ClaritySection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;Dynamics&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:4.5259714126586914}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;35c4d0b7-1d95-4040-9856-af7b528516d9&quot;}}},&quot;EQ&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;5&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8}}},&quot;Amount&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8.0853347778320313},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;d14e6a81-6e5b-4df7-8324-cfb5a019d4ad&quot;}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UsedClipGainValue&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:0.46361592411994934},&quot;VocalEnhancer&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;7&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;84570029-c9ae-4653-91ec-0fbdb9304d29&quot;}}}}},&quot;ClipType&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:1},&quot;LoudnessSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;AutoLoudnessEnabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}},&quot;PresetGuid&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;2d1dde28-2405-475c-a22d-ea21f1aa2f21&quot;},&quot;RestorationSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;ReduceHum&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;4&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7.143000602722168}}},&quot;9&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:60}}}}},&quot;ReduceNoise&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0141866207122803}}}}},&quot;ReduceRumble&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;8&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0490450859069824}}}}},&quot;ReduceSibilance&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;6&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:2.5248193740844727}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;dd0e225c-23ad-481d-ae45-1454ca7bff92&quot;}}}}},&quot;SoundEffectsSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:false},&quot;Reverb&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1.8020402193069458}}},&quot;3&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7}}}}}}},&quot;VolumeSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}}}}}"/>
+          <effectsRack preFader="true">
+            <component componentGuid="5fba642a-abb0-44f1-ba5c-ef968e2c9c45" id="rackMix" powered="true">
+              <parameter index="0" parameterValue="0"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="94e53897-c0f3-4fa5-8960-3d3139c51a2e" id="rackInput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="55cb09be-3b1d-4f97-813d-ca9092b513af" id="rackOutput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <slot powered="true" slotIndex="0">
+              <component componentGuid="35c4d0b7-1d95-4040-9856-af7b528516d9" componentID="f76dad9c-77da-477a-9939-eefefc5c23bd" name="Dynamics Processing">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Level Detector - Attack Time" parameterValue="0.002"/>
+                <parameter index="1" name="Level Detector - Release Time" parameterValue="0.05"/>
+                <parameter index="2" name="Gain Processor - Attack Time" parameterValue="0.048"/>
+                <parameter index="3" name="Gain Processor - Release Time" parameterValue="0.05"/>
+                <parameter index="4" name="Lookahead Time" parameterValue="0.006"/>
+                <parameter index="5" name="Input Gain" parameterValue="0.5"/>
+                <parameter index="6" name="Output Gain" parameterValue="0.5"/>
+                <parameter index="7" name="Low Cutoff" parameterValue="0"/>
+                <parameter index="8" name="High Cutoff" parameterValue="1"/>
+                <parameter index="9" name="Lock Filter" parameterValue="0"/>
+                <parameter index="10" name="Number of X/Y Pairs" parameterValue="0.8571429"/>
+                <parameter index="11" name="Link Channels" parameterValue="0"/>
+                <parameter index="12" name="Peak/RMS" parameterValue="1"/>
+                <parameter index="13" name="Envelope Only" parameterValue="0"/>
+                <parameter index="14" name="Spline Curves" parameterValue="1"/>
+                <parameter index="15" name="Noise Gating (if expanding more than 50:1)" parameterValue="0"/>
+                <parameter index="16" name="Current Tab" parameterValue="1"/>
+                <parameter index="17" name="Location1" parameterValue="0"/>
+                <parameter index="18" name="Value1" parameterValue="0"/>
+                <parameter index="19" name="Location2" parameterValue="0.0861731"/>
+                <parameter index="20" name="Value2" parameterValue="0.0471714"/>
+                <parameter index="21" name="Location3" parameterValue="0.1378769"/>
+                <parameter index="22" name="Value3" parameterValue="0.1237553"/>
+                <parameter index="23" name="Location4" parameterValue="0.1823461"/>
+                <parameter index="24" name="Value4" parameterValue="0.1823461"/>
+                <parameter index="25" name="Location5" parameterValue="0.3196059"/>
+                <parameter index="26" name="Value5" parameterValue="0.5115522"/>
+                <parameter index="27" name="Location6" parameterValue="1"/>
+                <parameter index="28" name="Value6" parameterValue="0.9909481"/>
+                <parameter index="29" name="Location7" parameterValue="0.5"/>
+                <parameter index="30" name="Value7" parameterValue="0.5"/>
+                <parameter index="31" name="Make-Up Gain" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="1">
+              <component componentGuid="d14e6a81-6e5b-4df7-8324-cfb5a019d4ad" componentID="3792d46f-5036-4be6-ab5a-177622246a5d" name="Graphic Equalizer (10 Bands)">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Accuracy" parameterValue="0.0965534"/>
+                <parameter index="1" name="Master Gain" parameterValue="0.5"/>
+                <parameter index="2" name="Range" parameterValue="0.2911392"/>
+                <parameter index="3" name="Reset" parameterValue="0"/>
+                <parameter index="4" name="EQ Band 1" parameterValue="0.5"/>
+                <parameter index="5" name="EQ Band 2" parameterValue="0.5"/>
+                <parameter index="6" name="EQ Band 3" parameterValue="0.5"/>
+                <parameter index="7" name="EQ Band 4" parameterValue="0.5"/>
+                <parameter index="8" name="EQ Band 5" parameterValue="0.5"/>
+                <parameter index="9" name="EQ Band 6" parameterValue="0.5109684"/>
+                <parameter index="10" name="EQ Band 7" parameterValue="0.5376283"/>
+                <parameter index="11" name="EQ Band 8" parameterValue="0.5156692"/>
+                <parameter index="12" name="EQ Band 9" parameterValue="0.5"/>
+                <parameter index="13" name="EQ Band 10" parameterValue="0.5"/>
+                <parameter index="14" name="Is Processing" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="2">
+              <component componentGuid="dd0e225c-23ad-481d-ae45-1454ca7bff92" componentID="ffbe710f-cd69-4139-ad26-65603616d9d4" name="DeEsser">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[BCBuYWZldFMHAAAAfpiMwQAAyEIAAMhCxF81RWuPHEUAAAAAAACAPw==]]></presetChunkData>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="3">
+              <component componentGuid="84570029-c9ae-4653-91ec-0fbdb9304d29" componentID="82882adc-18cb-475b-b237-597576a5e707" name="Vocal Enhancer">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[EiBuYWZldFMBAAAAAQAAAAAAAAA=]]></presetChunkData>
+              </component>
+            </slot>
+          </effectsRack>
+          <component componentGuid="7c7dc88d-1cc9-41ab-83ce-607df46fd2d9" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.2509153"/>
+            <parameter index="1" name="static gain" parameterValue="0.4636159"/>
           </component>
-          <component componentGuid="78278f82-00fe-4db1-a560-fb7ad8c93b0b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="7a516813-b15c-429e-86e0-bd5d6ba76f9d" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
-          <component componentGuid="52655c17-5977-4e8b-822c-d1eeb281a78e" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+          <component componentGuid="08e86ec1-0875-4112-90a1-5ecd4ecb3d08" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="60192" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="455271" shape="0" startPoint="455271" type="cosine"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="109166" shape="0" startPoint="109166" type="cosine"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="480917" fileID="1" hue="-1" id="2" lockedInTime="false" looped="false" name="a way out remix trailer_audio" offline="false" select="false" sourceInPoint="278802" sourceOutPoint="480917" startPoint="278802" zOrder="2">
+          <properties properties="{&quot;BasicAdjustmentsProperty&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AdjustmentMode&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;dialog&quot;},&quot;ClaritySection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;Dynamics&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:4.5259714126586914}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;45bf0b4d-7a41-4f6e-8bd2-3414eddadba5&quot;}}},&quot;EQ&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;5&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8}}},&quot;Amount&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8.0853347778320313},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;c1225d73-9ec0-4c18-aac0-a343fcde7288&quot;}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UsedClipGainValue&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:0.46361592411994934},&quot;VocalEnhancer&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;7&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;e1834e74-8414-42d0-97f8-69ba4af8f595&quot;}}}}},&quot;ClipType&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:1},&quot;LoudnessSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;AutoLoudnessEnabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}},&quot;PresetGuid&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;2d1dde28-2405-475c-a22d-ea21f1aa2f21&quot;},&quot;RestorationSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;ReduceHum&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;4&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7.143000602722168}}},&quot;9&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:60}}}}},&quot;ReduceNoise&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0141866207122803}}}}},&quot;ReduceRumble&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;8&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0490450859069824}}}}},&quot;ReduceSibilance&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;6&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:2.5248193740844727}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;3d0d52ed-9a66-49a6-92a7-87d24e3beb2f&quot;}}}}},&quot;SoundEffectsSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:false},&quot;Reverb&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1.8020402193069458}}},&quot;3&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7}}}}}}},&quot;VolumeSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}}}}}"/>
+          <effectsRack preFader="true">
+            <component componentGuid="86baf641-1da9-4bb3-9160-c1688dfcd5db" id="rackMix" powered="true">
+              <parameter index="0" parameterValue="0"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="e331f62c-37e1-4fbc-a1b5-5d09f5d45ac2" id="rackInput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="c3f0af7c-81d0-4c05-af00-d6e7879bbbcf" id="rackOutput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <slot powered="true" slotIndex="0">
+              <component componentGuid="45bf0b4d-7a41-4f6e-8bd2-3414eddadba5" componentID="f76dad9c-77da-477a-9939-eefefc5c23bd" name="Dynamics Processing">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Level Detector - Attack Time" parameterValue="0.002"/>
+                <parameter index="1" name="Level Detector - Release Time" parameterValue="0.05"/>
+                <parameter index="2" name="Gain Processor - Attack Time" parameterValue="0.048"/>
+                <parameter index="3" name="Gain Processor - Release Time" parameterValue="0.05"/>
+                <parameter index="4" name="Lookahead Time" parameterValue="0.006"/>
+                <parameter index="5" name="Input Gain" parameterValue="0.5"/>
+                <parameter index="6" name="Output Gain" parameterValue="0.5"/>
+                <parameter index="7" name="Low Cutoff" parameterValue="0"/>
+                <parameter index="8" name="High Cutoff" parameterValue="1"/>
+                <parameter index="9" name="Lock Filter" parameterValue="0"/>
+                <parameter index="10" name="Number of X/Y Pairs" parameterValue="0.8571429"/>
+                <parameter index="11" name="Link Channels" parameterValue="0"/>
+                <parameter index="12" name="Peak/RMS" parameterValue="1"/>
+                <parameter index="13" name="Envelope Only" parameterValue="0"/>
+                <parameter index="14" name="Spline Curves" parameterValue="1"/>
+                <parameter index="15" name="Noise Gating (if expanding more than 50:1)" parameterValue="0"/>
+                <parameter index="16" name="Current Tab" parameterValue="1"/>
+                <parameter index="17" name="Location1" parameterValue="0"/>
+                <parameter index="18" name="Value1" parameterValue="0"/>
+                <parameter index="19" name="Location2" parameterValue="0.0861731"/>
+                <parameter index="20" name="Value2" parameterValue="0.0471714"/>
+                <parameter index="21" name="Location3" parameterValue="0.1378769"/>
+                <parameter index="22" name="Value3" parameterValue="0.1237553"/>
+                <parameter index="23" name="Location4" parameterValue="0.1823461"/>
+                <parameter index="24" name="Value4" parameterValue="0.1823461"/>
+                <parameter index="25" name="Location5" parameterValue="0.3196059"/>
+                <parameter index="26" name="Value5" parameterValue="0.5115522"/>
+                <parameter index="27" name="Location6" parameterValue="1"/>
+                <parameter index="28" name="Value6" parameterValue="0.9909481"/>
+                <parameter index="29" name="Location7" parameterValue="0.5"/>
+                <parameter index="30" name="Value7" parameterValue="0.5"/>
+                <parameter index="31" name="Make-Up Gain" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="1">
+              <component componentGuid="c1225d73-9ec0-4c18-aac0-a343fcde7288" componentID="3792d46f-5036-4be6-ab5a-177622246a5d" name="Graphic Equalizer (10 Bands)">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Accuracy" parameterValue="0.0965534"/>
+                <parameter index="1" name="Master Gain" parameterValue="0.5"/>
+                <parameter index="2" name="Range" parameterValue="0.2911392"/>
+                <parameter index="3" name="Reset" parameterValue="0"/>
+                <parameter index="4" name="EQ Band 1" parameterValue="0.5"/>
+                <parameter index="5" name="EQ Band 2" parameterValue="0.5"/>
+                <parameter index="6" name="EQ Band 3" parameterValue="0.5"/>
+                <parameter index="7" name="EQ Band 4" parameterValue="0.5"/>
+                <parameter index="8" name="EQ Band 5" parameterValue="0.5"/>
+                <parameter index="9" name="EQ Band 6" parameterValue="0.5109684"/>
+                <parameter index="10" name="EQ Band 7" parameterValue="0.5376283"/>
+                <parameter index="11" name="EQ Band 8" parameterValue="0.5156692"/>
+                <parameter index="12" name="EQ Band 9" parameterValue="0.5"/>
+                <parameter index="13" name="EQ Band 10" parameterValue="0.5"/>
+                <parameter index="14" name="Is Processing" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="2">
+              <component componentGuid="3d0d52ed-9a66-49a6-92a7-87d24e3beb2f" componentID="ffbe710f-cd69-4139-ad26-65603616d9d4" name="DeEsser">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[BCBuYWZldFMHAAAAfpiMwQAAyEIAAMhCxF81RWuPHEUAAAAAAACAPw==]]></presetChunkData>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="3">
+              <component componentGuid="e1834e74-8414-42d0-97f8-69ba4af8f595" componentID="82882adc-18cb-475b-b237-597576a5e707" name="Vocal Enhancer">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[EiBuYWZldFMBAAAAAQAAAAAAAAA=]]></presetChunkData>
+              </component>
+            </slot>
+          </effectsRack>
+          <component componentGuid="c55f17d8-94ff-4a64-9a48-32ff3c970fde" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.2509153"/>
+            <parameter index="1" name="static gain" parameterValue="0.4636159"/>
+          </component>
+          <component componentGuid="36de2692-669d-4ad5-9146-c5a45f2e6cbe" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="535f3f01-2b6f-483c-a4e9-1e06ad538d02" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="202115" shape="0" startPoint="202115" type="cosine"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="2330177" fileID="1" hue="-1" id="3" lockedInTime="false" looped="false" name="a way out remix trailer_audio" offline="false" select="false" sourceInPoint="480917" sourceOutPoint="2330177" startPoint="480917" zOrder="3">
+          <properties properties="{&quot;BasicAdjustmentsProperty&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AdjustmentMode&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;dialog&quot;},&quot;ClaritySection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;Dynamics&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:4.5259714126586914}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;9490f58e-1f31-484e-9adc-9456e9dba083&quot;}}},&quot;EQ&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;5&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8}}},&quot;Amount&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8.0853347778320313},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;ccabc9f9-54a4-4bac-9704-593581281fe9&quot;}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UsedClipGainValue&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:0.46361592411994934},&quot;VocalEnhancer&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;7&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;4df456f0-a3d7-48e3-9569-da3025f0798c&quot;}}}}},&quot;ClipType&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:1},&quot;LoudnessSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;AutoLoudnessEnabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}},&quot;PresetGuid&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;2d1dde28-2405-475c-a22d-ea21f1aa2f21&quot;},&quot;RestorationSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;ReduceHum&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;4&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7.143000602722168}}},&quot;9&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:60}}}}},&quot;ReduceNoise&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0141866207122803}}}}},&quot;ReduceRumble&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;8&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0490450859069824}}}}},&quot;ReduceSibilance&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;6&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:2.5248193740844727}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;6df85f99-f154-426f-b321-fb9d28aa2c3b&quot;}}}}},&quot;SoundEffectsSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:false},&quot;Reverb&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1.8020402193069458}}},&quot;3&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7}}}}}}},&quot;VolumeSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}}}}}"/>
+          <effectsRack preFader="true">
+            <component componentGuid="1fc9c962-c736-4410-ab78-77011f8cec9e" id="rackMix" powered="true">
+              <parameter index="0" parameterValue="0"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="47fb673a-01f1-4d36-ab01-6d2c129fd38e" id="rackInput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="454a569f-be9b-4e0e-9bf2-33e59185dcf5" id="rackOutput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <slot powered="true" slotIndex="0">
+              <component componentGuid="9490f58e-1f31-484e-9adc-9456e9dba083" componentID="f76dad9c-77da-477a-9939-eefefc5c23bd" name="Dynamics Processing">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Level Detector - Attack Time" parameterValue="0.002"/>
+                <parameter index="1" name="Level Detector - Release Time" parameterValue="0.05"/>
+                <parameter index="2" name="Gain Processor - Attack Time" parameterValue="0.048"/>
+                <parameter index="3" name="Gain Processor - Release Time" parameterValue="0.05"/>
+                <parameter index="4" name="Lookahead Time" parameterValue="0.006"/>
+                <parameter index="5" name="Input Gain" parameterValue="0.5"/>
+                <parameter index="6" name="Output Gain" parameterValue="0.5"/>
+                <parameter index="7" name="Low Cutoff" parameterValue="0"/>
+                <parameter index="8" name="High Cutoff" parameterValue="1"/>
+                <parameter index="9" name="Lock Filter" parameterValue="0"/>
+                <parameter index="10" name="Number of X/Y Pairs" parameterValue="0.8571429"/>
+                <parameter index="11" name="Link Channels" parameterValue="0"/>
+                <parameter index="12" name="Peak/RMS" parameterValue="1"/>
+                <parameter index="13" name="Envelope Only" parameterValue="0"/>
+                <parameter index="14" name="Spline Curves" parameterValue="1"/>
+                <parameter index="15" name="Noise Gating (if expanding more than 50:1)" parameterValue="0"/>
+                <parameter index="16" name="Current Tab" parameterValue="1"/>
+                <parameter index="17" name="Location1" parameterValue="0"/>
+                <parameter index="18" name="Value1" parameterValue="0"/>
+                <parameter index="19" name="Location2" parameterValue="0.0861731"/>
+                <parameter index="20" name="Value2" parameterValue="0.0471714"/>
+                <parameter index="21" name="Location3" parameterValue="0.1378769"/>
+                <parameter index="22" name="Value3" parameterValue="0.1237553"/>
+                <parameter index="23" name="Location4" parameterValue="0.1823461"/>
+                <parameter index="24" name="Value4" parameterValue="0.1823461"/>
+                <parameter index="25" name="Location5" parameterValue="0.3196059"/>
+                <parameter index="26" name="Value5" parameterValue="0.5115522"/>
+                <parameter index="27" name="Location6" parameterValue="1"/>
+                <parameter index="28" name="Value6" parameterValue="0.9909481"/>
+                <parameter index="29" name="Location7" parameterValue="0.5"/>
+                <parameter index="30" name="Value7" parameterValue="0.5"/>
+                <parameter index="31" name="Make-Up Gain" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="1">
+              <component componentGuid="ccabc9f9-54a4-4bac-9704-593581281fe9" componentID="3792d46f-5036-4be6-ab5a-177622246a5d" name="Graphic Equalizer (10 Bands)">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Accuracy" parameterValue="0.0965534"/>
+                <parameter index="1" name="Master Gain" parameterValue="0.5"/>
+                <parameter index="2" name="Range" parameterValue="0.2911392"/>
+                <parameter index="3" name="Reset" parameterValue="0"/>
+                <parameter index="4" name="EQ Band 1" parameterValue="0.5"/>
+                <parameter index="5" name="EQ Band 2" parameterValue="0.5"/>
+                <parameter index="6" name="EQ Band 3" parameterValue="0.5"/>
+                <parameter index="7" name="EQ Band 4" parameterValue="0.5"/>
+                <parameter index="8" name="EQ Band 5" parameterValue="0.5"/>
+                <parameter index="9" name="EQ Band 6" parameterValue="0.5109684"/>
+                <parameter index="10" name="EQ Band 7" parameterValue="0.5376283"/>
+                <parameter index="11" name="EQ Band 8" parameterValue="0.5156692"/>
+                <parameter index="12" name="EQ Band 9" parameterValue="0.5"/>
+                <parameter index="13" name="EQ Band 10" parameterValue="0.5"/>
+                <parameter index="14" name="Is Processing" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="2">
+              <component componentGuid="6df85f99-f154-426f-b321-fb9d28aa2c3b" componentID="ffbe710f-cd69-4139-ad26-65603616d9d4" name="DeEsser">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[BCBuYWZldFMHAAAAfpiMwQAAyEIAAMhCxF81RWuPHEUAAAAAAACAPw==]]></presetChunkData>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="3">
+              <component componentGuid="4df456f0-a3d7-48e3-9569-da3025f0798c" componentID="82882adc-18cb-475b-b237-597576a5e707" name="Vocal Enhancer">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[EiBuYWZldFMBAAAAAQAAAAAAAAA=]]></presetChunkData>
+              </component>
+            </slot>
+          </effectsRack>
+          <component componentGuid="f81d191d-3f55-4c9c-87ab-e8805481d681" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.2509153"/>
+            <parameter index="1" name="static gain" parameterValue="0.4636159"/>
+          </component>
+          <component componentGuid="11719ad2-5347-4cd4-aba3-ac3e09739369" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="0e8101c7-3fb1-4ed2-8324-fb159d1e2f55" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1849260" shape="0" startPoint="1849260" type="cosine"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="2985382" fileID="1" hue="-1" id="4" lockedInTime="false" looped="false" name="a way out remix trailer_audio" offline="false" select="false" sourceInPoint="2402038" sourceOutPoint="2985382" startPoint="2402038" zOrder="4">
+          <properties properties="{&quot;BasicAdjustmentsProperty&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AdjustmentMode&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;dialog&quot;},&quot;ClaritySection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;Dynamics&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:4.5259714126586914}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;08ff104c-5a9b-4039-a621-dda10d0dbd94&quot;}}},&quot;EQ&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;5&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8}}},&quot;Amount&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:8.0853347778320313},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;c2dfe850-dfd0-4c4e-90df-dfd206c00fdb&quot;}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UsedClipGainValue&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:0.46361592411994934},&quot;VocalEnhancer&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;7&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;76d06e34-035c-4962-bee6-50e12a2e113b&quot;}}}}},&quot;ClipType&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:1},&quot;LoudnessSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;AnalysisStatus&quot;:{&quot;type&quot;:&quot;std::int32_t&quot;,&quot;value&quot;:3},&quot;AutoLoudnessEnabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}},&quot;PresetGuid&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;2d1dde28-2405-475c-a22d-ea21f1aa2f21&quot;},&quot;RestorationSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;ReduceHum&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;4&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7.143000602722168}}},&quot;9&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:60}}}}},&quot;ReduceNoise&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0141866207122803}}}}},&quot;ReduceRumble&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;8&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:3.0490450859069824}}}}},&quot;ReduceSibilance&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;6&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:2.5248193740844727}}},&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true},&quot;UUID&quot;:{&quot;type&quot;:&quot;UTF8String&quot;,&quot;value&quot;:&quot;1b86a8b5-e8af-4277-990c-a0e453dc2745&quot;}}}}},&quot;SoundEffectsSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:false},&quot;Reverb&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;2&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:1.8020402193069458}}},&quot;3&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Value&quot;:{&quot;type&quot;:&quot;float&quot;,&quot;value&quot;:7}}}}}}},&quot;VolumeSection&quot;:{&quot;type&quot;:&quot;tree::any&quot;,&quot;value&quot;:{&quot;Enabled&quot;:{&quot;type&quot;:&quot;bool&quot;,&quot;value&quot;:true}}}}}}"/>
+          <effectsRack preFader="true">
+            <component componentGuid="8315a808-ccf8-4c78-bb7f-0eb3d6a9fe52" id="rackMix" powered="true">
+              <parameter index="0" parameterValue="0"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="3f5ef3bd-f44d-4255-a9a3-fadea00f26a3" id="rackInput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <component componentGuid="8a6f6b07-834b-4e7d-827a-c13d7d06a3a6" id="rackOutput" powered="true">
+              <parameter index="0" parameterValue="1"/>
+              <parameter index="1" parameterValue="0"/>
+            </component>
+            <slot powered="true" slotIndex="0">
+              <component componentGuid="08ff104c-5a9b-4039-a621-dda10d0dbd94" componentID="f76dad9c-77da-477a-9939-eefefc5c23bd" name="Dynamics Processing">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Level Detector - Attack Time" parameterValue="0.002"/>
+                <parameter index="1" name="Level Detector - Release Time" parameterValue="0.05"/>
+                <parameter index="2" name="Gain Processor - Attack Time" parameterValue="0.048"/>
+                <parameter index="3" name="Gain Processor - Release Time" parameterValue="0.05"/>
+                <parameter index="4" name="Lookahead Time" parameterValue="0.006"/>
+                <parameter index="5" name="Input Gain" parameterValue="0.5"/>
+                <parameter index="6" name="Output Gain" parameterValue="0.5"/>
+                <parameter index="7" name="Low Cutoff" parameterValue="0"/>
+                <parameter index="8" name="High Cutoff" parameterValue="1"/>
+                <parameter index="9" name="Lock Filter" parameterValue="0"/>
+                <parameter index="10" name="Number of X/Y Pairs" parameterValue="0.8571429"/>
+                <parameter index="11" name="Link Channels" parameterValue="0"/>
+                <parameter index="12" name="Peak/RMS" parameterValue="1"/>
+                <parameter index="13" name="Envelope Only" parameterValue="0"/>
+                <parameter index="14" name="Spline Curves" parameterValue="1"/>
+                <parameter index="15" name="Noise Gating (if expanding more than 50:1)" parameterValue="0"/>
+                <parameter index="16" name="Current Tab" parameterValue="1"/>
+                <parameter index="17" name="Location1" parameterValue="0"/>
+                <parameter index="18" name="Value1" parameterValue="0"/>
+                <parameter index="19" name="Location2" parameterValue="0.0861731"/>
+                <parameter index="20" name="Value2" parameterValue="0.0471714"/>
+                <parameter index="21" name="Location3" parameterValue="0.1378769"/>
+                <parameter index="22" name="Value3" parameterValue="0.1237553"/>
+                <parameter index="23" name="Location4" parameterValue="0.1823461"/>
+                <parameter index="24" name="Value4" parameterValue="0.1823461"/>
+                <parameter index="25" name="Location5" parameterValue="0.3196059"/>
+                <parameter index="26" name="Value5" parameterValue="0.5115522"/>
+                <parameter index="27" name="Location6" parameterValue="1"/>
+                <parameter index="28" name="Value6" parameterValue="0.9909481"/>
+                <parameter index="29" name="Location7" parameterValue="0.5"/>
+                <parameter index="30" name="Value7" parameterValue="0.5"/>
+                <parameter index="31" name="Make-Up Gain" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="1">
+              <component componentGuid="c2dfe850-dfd0-4c4e-90df-dfd206c00fdb" componentID="3792d46f-5036-4be6-ab5a-177622246a5d" name="Graphic Equalizer (10 Bands)">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <parameter index="0" name="Accuracy" parameterValue="0.0965534"/>
+                <parameter index="1" name="Master Gain" parameterValue="0.5"/>
+                <parameter index="2" name="Range" parameterValue="0.2911392"/>
+                <parameter index="3" name="Reset" parameterValue="0"/>
+                <parameter index="4" name="EQ Band 1" parameterValue="0.5"/>
+                <parameter index="5" name="EQ Band 2" parameterValue="0.5"/>
+                <parameter index="6" name="EQ Band 3" parameterValue="0.5"/>
+                <parameter index="7" name="EQ Band 4" parameterValue="0.5"/>
+                <parameter index="8" name="EQ Band 5" parameterValue="0.5"/>
+                <parameter index="9" name="EQ Band 6" parameterValue="0.5109684"/>
+                <parameter index="10" name="EQ Band 7" parameterValue="0.5376283"/>
+                <parameter index="11" name="EQ Band 8" parameterValue="0.5156692"/>
+                <parameter index="12" name="EQ Band 9" parameterValue="0.5"/>
+                <parameter index="13" name="EQ Band 10" parameterValue="0.5"/>
+                <parameter index="14" name="Is Processing" parameterValue="0"/>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="2">
+              <component componentGuid="1b86a8b5-e8af-4277-990c-a0e453dc2745" componentID="ffbe710f-cd69-4139-ad26-65603616d9d4" name="DeEsser">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[BCBuYWZldFMHAAAAfpiMwQAAyEIAAMhCxF81RWuPHEUAAAAAAACAPw==]]></presetChunkData>
+              </component>
+            </slot>
+            <slot powered="true" slotIndex="3">
+              <component componentGuid="76d06e34-035c-4962-bee6-50e12a2e113b" componentID="82882adc-18cb-475b-b237-597576a5e707" name="Vocal Enhancer">
+                <channelMap direction="input">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <channelMap direction="output">
+                  <channel index="0" sourceIndex="0"/>
+                  <channel index="1" sourceIndex="1"/>
+                </channelMap>
+                <presetChunkData><![CDATA[EiBuYWZldFMBAAAAAQAAAAAAAAA=]]></presetChunkData>
+              </component>
+            </slot>
+          </effectsRack>
+          <component componentGuid="85e7e5f7-aadd-42e7-9c9b-cb348f538c2a" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.2509153"/>
+            <parameter index="1" name="static gain" parameterValue="0.4636159"/>
+          </component>
+          <component componentGuid="38800c7c-aea8-4a16-a1da-4b98b98dde60" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="42720210-474f-4c43-a4f0-b7176fe4cb06" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="583344" shape="0" startPoint="583344" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <channelMap>
@@ -127,8 +746,8 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10002" index="2" select="false" visible="true">
-        <trackParameters trackHeight="134" trackHue="138.3279132843017578" trackMinimized="false">
+      <audioTrack automationLaneOpenState="false" id="10002" index="2" select="true" visible="true">
+        <trackParameters trackHeight="70" trackHue="297.0000013639506733" trackMinimized="false">
           <name>Track 2</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -196,7 +815,7 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10003" index="3" select="false" visible="true">
-        <trackParameters trackHeight="134" trackHue="3.8225555419921871" trackMinimized="false">
+        <trackParameters trackHeight="70" trackHue="308.0000018186009356" trackMinimized="false">
           <name>Track 3</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -264,7 +883,7 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10004" index="4" select="false" visible="true">
-        <trackParameters trackHeight="134" trackHue="163.5224390029907227" trackMinimized="false">
+        <trackParameters trackHeight="70" trackHue="163.5224390029907227" trackMinimized="false">
           <name>Track 4</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -332,7 +951,7 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10005" index="5" select="false" visible="true">
-        <trackParameters trackHeight="134" trackHue="168.5408306121826172" trackMinimized="false">
+        <trackParameters trackHeight="70" trackHue="168.5408306121826172" trackMinimized="false">
           <name>Track 5</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -400,7 +1019,7 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10006" index="6" select="false" visible="true">
-        <trackParameters trackHeight="134" trackHue="83.4789705276489258" trackMinimized="false">
+        <trackParameters trackHeight="70" trackHue="83.4789705276489258" trackMinimized="false">
           <name>Track 6</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -468,7 +1087,7 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </audioTrack>
       <masterTrack automationLaneOpenState="false" id="10000" index="7" select="false" visible="true">
-        <trackParameters trackHeight="134" trackHue="-1" trackMinimized="false">
+        <trackParameters trackHeight="70" trackHue="-1" trackMinimized="false">
           <name>Master</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
@@ -536,9 +1155,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="87153" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="87153"/>
-      <viewState horizontalViewDuration="6013760" horizontalViewStart="0" trackControlsWidth="224" verticalScrollOffset="0"/>
+    <sessionState ctiPosition="2433821" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="2433821"/>
+      <viewState horizontalViewDuration="3760690" horizontalViewStart="0" trackControlsWidth="180" verticalScrollOffset="0"/>
       <timeFormatState beatsPerBar="4" beatsPerMinute="120" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
       <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3"/>
     </sessionState>
@@ -553,9 +1172,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition CC 2018.0 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2018-03-26T14:23:14-06:00</xmp:CreateDate>
-         <xmp:MetadataDate>2018-03-26T14:46:24-06:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2018-03-26T14:46:24-06:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:c516e3aa-a6a3-304f-a3ba-efaa4f6dfd39</xmpMM:InstanceID>
+         <xmp:MetadataDate>2018-03-28T22:58:46-06:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-03-28T22:58:46-06:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:afb343e1-04e3-474a-a0b2-e5578cd8387c</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:3c7e590d-a7a0-164b-9219-c6e07e0447db</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:3c7e590d-a7a0-164b-9219-c6e07e0447db</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -581,6 +1200,27 @@
                   <stEvt:softwareAgent>Adobe Audition CC 2018.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:8b5fc12f-d2b3-7b42-b045-43d9325bfec0</stEvt:instanceID>
+                  <stEvt:when>2018-03-28T21:58:13-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2018.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6cf346a7-f2a8-164f-acd8-5b3563ef4a01</stEvt:instanceID>
+                  <stEvt:when>2018-03-28T22:58:46-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2018.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:afb343e1-04e3-474a-a0b2-e5578cd8387c</stEvt:instanceID>
+                  <stEvt:when>2018-03-28T22:58:46-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CC 2018.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/xml</dc:format>
@@ -593,17 +1233,43 @@
                   <xmpDM:markers>
                      <rdf:Seq>
                         <rdf:li rdf:parseType="Resource">
-                           <xmpDM:startTime>2162545</xmpDM:startTime>
-                           <xmpDM:name>Marker 04</xmpDM:name>
+                           <xmpDM:startTime>481344</xmpDM:startTime>
+                           <xmpDM:name>Marker 10</xmpDM:name>
                            <xmpDM:cuePointParams>
                               <rdf:Seq>
                                  <rdf:li rdf:parseType="Resource">
                                     <xmpDM:key>marker_guid</xmpDM:key>
-                                    <xmpDM:value>xmp:id:74216e9d-dccf-904a-8ede-f3639c5231f9</xmpDM:value>
+                                    <xmpDM:value>xmp:id:2867f0a7-7287-924a-9960-03c364cd50c4</xmpDM:value>
                                  </rdf:li>
                               </rdf:Seq>
                            </xmpDM:cuePointParams>
-                           <xmpDM:guid>xmp:id:74216e9d-dccf-904a-8ede-f3639c5231f9</xmpDM:guid>
+                           <xmpDM:guid>xmp:id:2867f0a7-7287-924a-9960-03c364cd50c4</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>528710</xmpDM:startTime>
+                           <xmpDM:name>Marker 09</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:ce4ae6f0-6e17-6446-92ff-f9064e09a214</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:ce4ae6f0-6e17-6446-92ff-f9064e09a214</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>2402115</xmpDM:startTime>
+                           <xmpDM:name>Marker 07</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:a4613580-b2cd-5643-aa6e-4c73d8e75fae</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:a4613580-b2cd-5643-aa6e-4c73d8e75fae</xmpDM:guid>
                         </rdf:li>
                      </rdf:Seq>
                   </xmpDM:markers>
@@ -722,8 +1388,8 @@
   </session>
 
   <files>
-    <file absolutePath="C:\Users\10820534\Documents\DGM 1110\DGM1110Spring2018\Premiere\BioShock Infinite TV Commercial 1080p HD TV official Trailer.avi" id="0" mediaHandler="ImporterHost" relativePath="../../../Premiere/BioShock Infinite TV Commercial 1080p HD TV official Trailer.avi"/>
-    <file absolutePath="C:\Users\10820534\Documents\DGM 1110\DGM1110Spring2018\Audio\Completed Audio Assignments\Animation_Remix_Anastacia_Chumakov\Conformed Files\Wicked Ones 48000 1.wav" id="1" mediaHandler="AmioWav" relativePath="Conformed Files/Wicked Ones 48000 1.wav"/>
+    <file absolutePath="C:\Users\Admin\Documents\College\DGM 1110\DGM1110Spring2018\Audio\Completed Audio Assignments\Animation_Remix_Anastacia_Chumakov\Imported Files\a way out remix trailer.mp4" id="0" importerPrivateSettings="AQAAAP////8=" mediaHandler="ImporterHost" relativePath="Imported Files/a way out remix trailer.mp4"/>
+    <file absolutePath="C:\Users\Admin\Documents\College\DGM 1110\DGM1110Spring2018\Audio\Completed Audio Assignments\Animation_Remix_Anastacia_Chumakov\Imported Files\a way out remix trailer_audio.wav" id="1" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" relativePath="Imported Files/a way out remix trailer_audio.wav"/>
   </files>
 
   <audioDevice inputID="" outputID="B5E0A346-06EE-4EA6-BF87-DD50C7AF1696">
